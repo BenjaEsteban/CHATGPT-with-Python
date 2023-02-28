@@ -1,5 +1,6 @@
-#Archivos
+#Archivos y carpetas
 config.py
+__pycache__/
 
 # Logs
 logs
